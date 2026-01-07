@@ -1,2 +1,2 @@
-# IRSA
-creating and irsa for kubernetes
+# terraform-irsa
+## Follow the videos in class to practice
